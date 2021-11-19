@@ -1,7 +1,7 @@
 {
   "namespace": "io.confluent.developer",
   "type": "record",
-  "name": "StudentInput",
+  "name": "StudentMessageInput",
   "fields": [
     {
       "name": "name",

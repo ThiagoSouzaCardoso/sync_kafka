@@ -1,12 +1,11 @@
 {
   "namespace": "io.confluent.developer",
   "type": "record",
-  "name": "StudentOutput",
+  "name": "StudentMessageOutput",
   "fields": [
     {
       "name": "uuid",
-      "type": "string",
-      "logicalType": "UUID",
+      "type": "string"
     }
   ]
 }
